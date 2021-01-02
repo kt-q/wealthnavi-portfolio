@@ -4,7 +4,7 @@
   - 平均分散法によって資産クラスの最適化を行う
   - リスク許容度に応じた最適ポートフォリオは以下の（非線形）最大化問題の解となる資産配分比率(w)を求めることによって求まる
 
-    > <img src="https://github.com/kt-q/wealthnavi-portfolio/blob/master/fig/equation_texclip20210102211142.png" width="250" height="auto">
+    > <img src="https://github.com/kt-q/wealthnavi-portfolio/blob/master/fig/texclip20210102211142.png" width="250" height="auto">
         r:  各資産クラスの期待リターン
         Σ:  quad 分散・共分散行列
         w:  各資産クラスへの配分比率
